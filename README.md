@@ -1,6 +1,8 @@
 # SACT v1.0
 Tool for calculating hash collisions of the Solidity Contract Interface.
 
+Part of [my bachelor's thesis](https://github.com/konstantinfickel/securityofsmartcontracts).
+
 ## Mode `HASH`
 
 ```
